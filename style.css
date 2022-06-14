@@ -32,7 +32,7 @@ body {
     font-size: 14px;
     height: 100vh;
     background-color: var(--very-dark-blue);
-    background-image: url(/images/bg-desktop.png);
+    background-image: url(https://zahoornoman0.github.io/fylo-data-storage-component/images/bg-desktop.png);
     background-repeat: no-repeat;
     background-position: bottom left;
     background-size: 100%;
